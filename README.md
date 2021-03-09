@@ -2,7 +2,7 @@
 ### Anggota Kelompok 
 * Bagas Tri Wibowo 1301194051
 * Serly Setyani 1301190225
-* Maulana Farrel Ceskicevas
+* Maulana Farrel Ceskicevas 1301190311
 
 ### IF-43-04
 
