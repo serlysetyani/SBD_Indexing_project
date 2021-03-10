@@ -9,7 +9,7 @@
 >Projek ini digunakan untuk memenuhi tugas dari mata kuliah **Sistem Basis Data** yang diampuh oleh bapak **Iwan Ichwanul Muslimin Karo Karo, S.T., M.T.**	
 
 ## Persiapan Database
->Kami membuat sebuah database peminjaman buku yang terdiri dari Book (211 rows), Student (433 rows), dan Transaction (1000 rows) yang terlampir dalam dalam folder Tables.
+>Kami membuat sebuah database peminjaman buku yang terdiri dari 3 table yaitu, table Book (211 rows), table Student (433 rows), dan table Transaction (1000 rows) yang terlampir dalam dalam folder Tables.
 
 ### Tugas Utama 1 & 2
 >Membuat query hasil Identifikasi dari Database yang dibuat dan terlampir query identifikasi didalam folder ini.
