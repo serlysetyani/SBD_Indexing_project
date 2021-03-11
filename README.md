@@ -16,5 +16,9 @@
 >Dokumen identifikasi: http://bit.ly/TugasSBDIndexing
 
 
-#### Still ON Progress Sir ^^
+### Slide Presentasi
+>Link : http://bit.ly/PresentasiSBDIF-43-04
+
+### Video Presentasi
+>Link : https://youtu.be/13xDLDKR7Pc
 
